@@ -64,7 +64,6 @@ header {
   display: flex;
   gap: 10px;
   justify-content: center;
-  align-items: center;
 }
 .header-top .header-top-l h1 {
   font-family: Muli;
@@ -111,7 +110,7 @@ header {
 }
 
 .header-in {
-  padding: 50px 0 0 0;
+  margin-top: -200px;
   margin-left: -100px;
 }
 
